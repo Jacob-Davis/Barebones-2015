@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>PikaTracker</name>
+		<description><![CDATA[The most accurate Pokemon Go map available. This map compiles crowd-sourced locations and humanly checks them for accuracy. This is not open to the public for edits, we keep it update and consistent.]]></description>
+		<NetworkLink>
+			<name>PikaTracker</name>
+			<Link>
+				<href>http://www.google.com/maps/d/u/0/kml?forcekml=1&amp;mid=1nv7msT9Om8E-6ACZ4vAIY8xzlrU</href>
+			</Link>
+		</NetworkLink>
+	</Document>
+</kml>
